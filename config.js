@@ -11,14 +11,14 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'https://instagram.com/mhdfakri_'
+gc1 = 'https://instagram.com/amirbot_01'
 gc2 = 'https://www.youtube.com/c/HokenBeusz'
-gc3 = 'https://vt.tiktok.com/ZSeCJHbfA/'
+gc3 = 'tiktok.com/@amirbot01'
 global.linkGC = ['https://chat.whatsapp.com/KTUF5TbtlWu4vOFnlDqCwg', ''] // ganti jadi group lu
-global.owner = ['6281251549899','6281251549899'] // Put your number here //owner eval
-global.kontak = ['6281251549899','6281251549899'] //Ketika ada yang ngetik #owner
+global.owner = ['6282154156241','6282154156241'] // Put your number here //owner eval
+global.kontak = ['6282154156241','6282154156241'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6281251549899','6281251549899'] // Premium user has unlimited limit
+global.prems = ['6282154156241','6282154156241'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -58,24 +58,24 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
+namaig = 'amirbot_01'
+namagithub = 'Amirr'
 kasihcaption = `*Kalau udah dikasih, bilang apa?*`
-namakontak1 = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
-namakontak2 = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
+namakontak1 = '𝘼𝙈𝙄𝙍𝙍 𝙓'
+namakontak2 = '𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
 
 //kasihcaption = `Kalau udah dikasih, bilang apa?`
 
 // Sticker WM
-global.packname = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×' // ganti aja
-global.author = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×' // ganti aja
+global.packname = '𝘼𝙈𝙄𝙍𝙍 𝙓' // ganti aja
+global.author = '𝘼𝙈𝙄𝙍𝙍 𝙓' // ganti aja
 
 //yyy
-'𝙆𝙧𝙞𝙯𝙮𝙣×͜×' // Broadcast
-footer = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×' // Broadcast
-footer = '\𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
-namabot = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
-namalu = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
+'𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏' // Broadcast
+footer = '𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏' // Broadcast
+footer = '\𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
+namabot = '𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
+namalu = '𝘼𝙈𝙄𝙍𝙍 𝙓'
 
 
 // 
@@ -86,7 +86,7 @@ global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fi
 global.eror = '❗𝙎𝙚𝙧𝙫𝙚𝙧 𝙀𝙧𝙧𝙤𝙧...'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '𝙆𝙧𝙞𝙯𝙮𝙣×͜× ' //change the watermark 
+global.watermark = '𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏' //change the watermark 
 global.image = 'https://telegra.ph/file/79a7809aa11ce604c129c.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/79a7809aa11ce604c129c.jpg'
 
